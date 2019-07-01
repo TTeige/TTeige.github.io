@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me and the blog
 permalink: /about/
 ---
 
@@ -11,6 +11,6 @@ I recently joined NAV in November 2018 after completing a Master of Computer Sci
 
 While studying I worked for the Chemistry department on [META-pipe](https://mmp.sfb.uit.no/) a genome analytic tool.
 
-
 I also worked the History department using machine learning models to analyze census records from 1950 to extract handwritten numbers and
 text from the structured documents. 
+
