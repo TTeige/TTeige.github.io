@@ -9,6 +9,8 @@ which tries to ensure that citizens receive social security and support when in 
 
 I recently joined NAV in November 2018 after completing a Master of Computer Science degree from the Arctic University of Norway.
 
-While studying I worked both for the Chemistry department on [META-pipe](https://mmp.sfb.uit.no/) a genome analytic tool
-and for the History department using machine learning models to analyze census records to extract handwritten numbers and
-text.
+While studying I worked for the Chemistry department on [META-pipe](https://mmp.sfb.uit.no/) a genome analytic tool.
+
+
+I also worked the History department using machine learning models to analyze census records from 1950 to extract handwritten numbers and
+text from the structured documents. 
