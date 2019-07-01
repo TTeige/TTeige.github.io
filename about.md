@@ -4,16 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic
- Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+A blog by me! Tim Alexander Teige. I am a software developer for [NAV-IKT](https://github.com/navikt), a Norwegian government institution 
+which tries to ensure that citizens receive social security and support when in times of need.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I recently joined NAV in November 2018 after completing a Master of Computer Science degree from the Arctic University of Norway.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+While studying I worked both for the Chemistry department on [META-pipe](https://mmp.sfb.uit.no/) a genome analytic tool
+and for the History department using machine learning models to analyze census records to extract handwritten numbers and
+text.
