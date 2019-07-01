@@ -4,6 +4,12 @@ title: About me and the blog
 permalink: /about/
 ---
 
+## The blog
+This blog is about everything and nothing. A place to collect my thoughts and reflect about what I might have learned from work, 
+from working on hobby projects or from learning for the sake of learning. Personal subjects will might not be shared, but
+who knows what might happen in a distant future. 
+
+## I, me and myself
 A blog by me! Tim Alexander Teige. I am a software developer for [NAV-IKT](https://github.com/navikt), a Norwegian government institution 
 which tries to ensure that citizens receive social security and support when in times of need.
 
