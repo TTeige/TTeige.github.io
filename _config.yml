@@ -13,3 +13,16 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
